@@ -24,4 +24,5 @@ A bakery management system that allows users to:
 See Postman collection or Swagger docs at `/api-docs`
 
 ## Developer
-[Your Name]
+- Kevin SEZERANO
+- NIYIGENA Esther
